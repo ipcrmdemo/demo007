@@ -3,6 +3,7 @@ my new project
 
 Based on seed project `ipcrmdemo:spring-rest-jenkins`
 
+
 ## Development
 
 This project is driven using [Maven][mvn].
